@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.deps.json
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.runtimeconfig.json
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Infrastructure.pdb
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Domain.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\bin\Debug\net8.0\Accounting.Domain.pdb
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounti.A036F2E3.Up2Date
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\refint\Accounting.Infrastructure.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.pdb
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\Accounting.Infrastructure.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Infrastructure\obj\Debug\net8.0\ref\Accounting.Infrastructure.dll
