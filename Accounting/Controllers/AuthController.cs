@@ -1,5 +1,6 @@
 ﻿using Accounting.Application.DTOs;
 using Accounting.Application.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Accounting.Api.Controllers
@@ -23,6 +24,14 @@ namespace Accounting.Api.Controllers
             {
                 message = "Kayıt işlemi başarıyla tamamlandı"
             });
+        }
+
+        [HttpPost("login")]
+        [AllowAnonymous]
+        public async Task<IActionResult> Login([FromBody] LoginRequest request)
+        {
+            var result = await _authService.LoginAsync(request); 
+            return Ok(result);
         }
     }
 }

@@ -9,7 +9,8 @@ namespace Accounting.Application.Abstractions
 {
     public interface IUserRepository
     {
-        Task<bool> EmailExistsAsync(string email);
         Task AddAsync(User user);
+        Task<bool> EmailExistsAsync(string email);
+        Task<User?> GetByEmailAsync(string email);
     }
 }

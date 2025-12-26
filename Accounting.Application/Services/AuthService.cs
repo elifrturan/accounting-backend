@@ -18,14 +18,40 @@ namespace Accounting.Application.Services
         private readonly IRoleRepository _roleRepository;
         private readonly IPasswordHasher _passwordHasher;
         private readonly AccountingDbContext _context;
+        private readonly IJwtTokenGenerator _jwtTokenGenerator;
 
-        public AuthService(IUserRepository userRepository, ICompanyRepository companyRepository, IRoleRepository roleRepository, AccountingDbContext context, IPasswordHasher passwordHasher)
+        public AuthService(
+            IUserRepository userRepository, 
+            ICompanyRepository companyRepository, 
+            IRoleRepository roleRepository, 
+            AccountingDbContext context, 
+            IPasswordHasher passwordHasher, 
+            IJwtTokenGenerator 
+            jwtTokenGenerator
+        )
         {
             _userRepository = userRepository;
             _companyRepository = companyRepository;
             _roleRepository = roleRepository;
             _context = context;
             _passwordHasher = passwordHasher;
+            _jwtTokenGenerator = jwtTokenGenerator;
+        }
+
+        public async Task<LoginResponse> LoginAsync(LoginRequest request)
+        {
+            var user = await _userRepository.GetByEmailAsync(request.Email)
+                ?? throw new Exception("E-posta veya şifre hatalı.");
+
+            if (!user.IsActive)
+                throw new Exception("Hesabınız pasif durumda. Lütfen yöneticinizle iletişime geçin.");
+
+            var passwordValid = _passwordHasher.Verify(request.Password, user.PasswordHash);
+
+            if (!passwordValid)
+                throw new Exception("E-posta veya şifre hatalı.");
+
+            return _jwtTokenGenerator.Generate(user);
         }
 
         public async Task RegisterAsync(RegisterRequest request)
@@ -57,6 +83,7 @@ namespace Accounting.Application.Services
                     PasswordHash = _passwordHasher.Hash(request.Password),
                     CompanyId = company.Id,
                     RoleId = adminRole.Id,
+                    IsActive = true,
                     CreatedAt = DateTime.UtcNow,
                 };
 

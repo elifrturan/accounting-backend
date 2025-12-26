@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ylXOrtwp49g=",
+  "dgSpecHash": "lRzwSe3peO8=",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting\\Accounting.Api.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.22\\microsoft.aspnetcore.authentication.jwtbearer.8.0.22.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.build.locator\\1.7.8\\microsoft.build.locator.1.7.8.nupkg.sha512",
@@ -43,6 +44,8 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.15.0\\microsoft.identitymodel.abstractions.8.15.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.15.0\\microsoft.identitymodel.jsonwebtokens.8.15.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.identitymodel.logging\\8.15.0\\microsoft.identitymodel.logging.8.15.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.15.0\\microsoft.identitymodel.tokens.8.15.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",

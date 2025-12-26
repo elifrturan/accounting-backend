@@ -153,7 +153,11 @@ C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\M
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
-C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\obj\Debug\net8.0\Accounting.Api.sourcelink.json
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

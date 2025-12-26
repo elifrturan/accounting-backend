@@ -9,3 +9,4 @@ C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Domain\obj\Debug\n
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Domain\obj\Debug\net8.0\refint\Accounting.Domain.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Domain\obj\Debug\net8.0\Accounting.Domain.pdb
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Domain\obj\Debug\net8.0\ref\Accounting.Domain.dll
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Domain\obj\Debug\net8.0\Accounting.Domain.sourcelink.json

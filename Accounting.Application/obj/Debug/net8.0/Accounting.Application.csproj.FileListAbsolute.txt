@@ -15,3 +15,4 @@ C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Application\obj\De
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Application\obj\Debug\net8.0\ref\Accounting.Application.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Application\bin\Debug\net8.0\Accounting.Infrastructure.dll
 C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Application\bin\Debug\net8.0\Accounting.Infrastructure.pdb
+C:\Users\ASUS\Desktop\AccountingProgram\Accounting\Accounting.Application\obj\Debug\net8.0\Accounting.Application.sourcelink.json
