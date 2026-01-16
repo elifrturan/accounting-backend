@@ -3,48 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|solutionrelative:accounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27DE1F12-6C11-4F91-8093-186C5CB0B5A1}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{27DE1F12-6C11-4F91-8093-186C5CB0B5A1}|C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{27DE1F12-6C11-4F91-8093-186C5CB0B5A1}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{27DE1F12-6C11-4F91-8093-186C5CB0B5A1}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|solutionrelative:accounting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\validationrules\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\validationrules\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9802FB-981A-41C3-BCB9-A92581985A17}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F9802FB-981A-41C3-BCB9-A92581985A17}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|solutionrelative:accounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80AFFB84-6BE1-460A-B368-24E5CCB50C9E}|Accounting\\Accounting.Api.csproj|solutionrelative:accounting\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\security\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\security\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\security\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|solutionrelative:accounting.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\security\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\security\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\validationrules\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\validationrules\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.application\\validationrules\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC7CA90-F465-4C67-B938-A554298D0697}|Accounting.Application\\Accounting.Application.csproj|solutionrelative:accounting.application\\validationrules\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|solutionrelative:accounting.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.infrastructure\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|solutionrelative:accounting.infrastructure\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.infrastructure\\persistence\\accountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686D573B-6A34-4211-8FBC-9B5475B9AA02}|Accounting.Infrastructure\\Accounting.Infrastructure.csproj|solutionrelative:accounting.infrastructure\\persistence\\accountingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9802FB-981A-41C3-BCB9-A92581985A17}|Accounting.Domain\\Accounting.Domain.csproj|c:\\users\\asus\\desktop\\accountingprogram\\accounting\\accounting.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9802FB-981A-41C3-BCB9-A92581985A17}|Accounting.Domain\\Accounting.Domain.csproj|solutionrelative:accounting.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,29 +82,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-16T13:31:58.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\ValidationRules\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "Accounting.Application\\ValidationRules\\RegisterRequestValidator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\ValidationRules\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "Accounting.Application\\ValidationRules\\RegisterRequestValidator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:10:49.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "RelativeDocumentMoniker": "Accounting.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "RelativeToolTip": "Accounting.Infrastructure\\Persistence\\AccountingDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T14:10:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Accounting.Domain\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Domain\\Entities\\User.cs",
               "RelativeToolTip": "Accounting.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T14:35:47.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T14:35:47.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "LoginRequestValidator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\ValidationRules\\LoginRequestValidator.cs",
               "RelativeDocumentMoniker": "Accounting.Application\\ValidationRules\\LoginRequestValidator.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\ValidationRules\\LoginRequestValidator.cs",
               "RelativeToolTip": "Accounting.Application\\ValidationRules\\LoginRequestValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T14:33:55.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T14:33:55.564Z"
             },
             {
               "$type": "Document",
@@ -102,36 +149,34 @@
               "RelativeDocumentMoniker": "Accounting\\appsettings.json",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting\\appsettings.json",
               "RelativeToolTip": "Accounting\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-25T14:21:50.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting\\Program.cs",
               "RelativeDocumentMoniker": "Accounting\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting\\Program.cs",
               "RelativeToolTip": "Accounting\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowGYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T13:08:30.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T13:08:30.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\Security\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "Accounting.Application\\Security\\JwtTokenGenerator.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\Security\\JwtTokenGenerator.cs",
               "RelativeToolTip": "Accounting.Application\\Security\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:57:34.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:57:34.426Z"
             },
             {
               "$type": "Document",
@@ -141,47 +186,45 @@
               "RelativeDocumentMoniker": "Accounting.Application\\Security\\IJwtTokenGenerator.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\Security\\IJwtTokenGenerator.cs",
               "RelativeToolTip": "Accounting.Application\\Security\\IJwtTokenGenerator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T12:57:02.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T12:57:02.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Accounting.Infrastructure\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Accounting.Infrastructure\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAzwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T12:55:14.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Infrastructure\\Abstractions\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Accounting.Infrastructure\\Abstractions\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Infrastructure\\Abstractions\\IUserRepository.cs",
               "RelativeToolTip": "Accounting.Infrastructure\\Abstractions\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T12:54:41.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Accounting\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Accounting\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T13:24:37.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T13:24:37.161Z"
             },
             {
               "$type": "Document",
@@ -191,20 +234,19 @@
               "RelativeDocumentMoniker": "Accounting.Application\\Services\\AuthService.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\Services\\AuthService.cs",
               "RelativeToolTip": "Accounting.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T13:14:25.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T13:14:25.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "Accounting.Application\\Services\\IAuthService.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\AccountingProgram\\Accounting\\Accounting.Application\\Services\\IAuthService.cs",
               "RelativeToolTip": "Accounting.Application\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T13:14:03.617Z"
             }
